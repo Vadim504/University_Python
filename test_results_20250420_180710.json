@@ -1,0 +1,130 @@
+{
+    "user": "Вадим",
+    "start_time": "2025-04-20 18:02:15",
+    "end_time": "2025-04-20 18:07:10",
+    "total_questions": 20,
+    "correct_answers": 11,
+    "score": 55.0,
+    "answers": [
+        {
+            "question": "Какой язык программирования является основным для написания смарт-контрактов в блокчейне Ethereum?",
+            "user_answer": 4,
+            "correct_answer": 2,
+            "is_correct": false
+        },
+        {
+            "question": "Какая команда в Git используется для клонирования удаленного репозитория?",
+            "user_answer": 1,
+            "correct_answer": 1,
+            "is_correct": true
+        },
+        {
+            "question": "Какая из перечисленных технологий является языком разметки?",
+            "user_answer": 5,
+            "correct_answer": 5,
+            "is_correct": true
+        },
+        {
+            "question": "Какой инструмент используется для контейнеризации приложений?",
+            "user_answer": 2,
+            "correct_answer": 2,
+            "is_correct": true
+        },
+        {
+            "question": "Какая база данных является нереляционной (NoSQL)?",
+            "user_answer": 2,
+            "correct_answer": 4,
+            "is_correct": false
+        },
+        {
+            "question": "Какой фреймворк чаще всего используется для создания RESTful API на Python?",
+            "user_answer": 4,
+            "correct_answer": 1,
+            "is_correct": false
+        },
+        {
+            "question": "Какой протокол используется для отправки электронной почты?",
+            "user_answer": 5,
+            "correct_answer": 1,
+            "is_correct": false
+        },
+        {
+            "question": "Какая из перечисленных технологий является JavaScript-библиотекой для работы с пользовательским интерфейсом?",
+            "user_answer": 5,
+            "correct_answer": 1,
+            "is_correct": false
+        },
+        {
+            "question": "Какое ключевое слово в SQL используется для фильтрации уникальных значений?",
+            "user_answer": 4,
+            "correct_answer": 1,
+            "is_correct": false
+        },
+        {
+            "question": "Какая из перечисленных технологий используется для стилизации веб-страниц?",
+            "user_answer": 2,
+            "correct_answer": 2,
+            "is_correct": true
+        },
+        {
+            "question": "Какой метод HTTP-запроса используется для обновления данных на сервере?",
+            "user_answer": 3,
+            "correct_answer": 3,
+            "is_correct": true
+        },
+        {
+            "question": "Какой язык программирования чаще всего используется для создания серверной части веб-приложений?",
+            "user_answer": 3,
+            "correct_answer": 5,
+            "is_correct": false
+        },
+        {
+            "question": "Какой инструмент используется для управления версиями кода?",
+            "user_answer": 5,
+            "correct_answer": 5,
+            "is_correct": true
+        },
+        {
+            "question": "Какая команда используется в терминале Linux для просмотра содержимого текущей директории?",
+            "user_answer": 3,
+            "correct_answer": 3,
+            "is_correct": true
+        },
+        {
+            "question": "Какое расширение файла обычно используется для скриптов на языке Python?",
+            "user_answer": 4,
+            "correct_answer": 4,
+            "is_correct": true
+        },
+        {
+            "question": "Какой язык программирования чаще всего используется для анализа данных и машинного обучения?",
+            "user_answer": 5,
+            "correct_answer": 5,
+            "is_correct": true
+        },
+        {
+            "question": "Какой язык программирования был создан первым?",
+            "user_answer": 5,
+            "correct_answer": 3,
+            "is_correct": false
+        },
+        {
+            "question": "Какой протокол отвечает за безопасную передачу данных между браузером и сервером?",
+            "user_answer": 5,
+            "correct_answer": 5,
+            "is_correct": true
+        },
+        {
+            "question": "Какой язык программирования является основным для разработки приложений под Android?",
+            "user_answer": 1,
+            "correct_answer": 4,
+            "is_correct": false
+        },
+        {
+            "question": "Какой фреймворк является одним из самых популярных для разработки мобильных приложений на JavaScript?",
+            "user_answer": 5,
+            "correct_answer": 5,
+            "is_correct": true
+        }
+    ]
+}
